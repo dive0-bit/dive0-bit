@@ -59,8 +59,8 @@ A backend system for grocery store product management.
 ## 📈 My Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dive0-bit&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dive0-bit&layout=compact&theme=radical" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dive0-bit&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dive0-bit&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
