@@ -59,11 +59,11 @@ A backend system for grocery store product management.
 ## 📈 My Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dive0-bit&theme=radical&hide_border=true&fire=0000CD&ring=0000CD" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dive0-bit&theme=radical&hide_border=true&fire=1e90ff&ring=1e90ff&sideNums=1e90ff&text=1e90ff&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/dev05-hub?theme=radical&ext=activity" alt="LeetCode Stats" width="650" />
+  <img src="https://leetcard.jacoblin.cool/dev05-hub?theme=dark&ext=activity" alt="LeetCode Stats" width="650" />
 </p>
 
 </div>
