@@ -54,8 +54,17 @@ A backend system for grocery store product management.
 
 ---
 
-### 📈 GitHub Stats
-## 📈 GitHub Stats
-![Divesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dive0-bit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dive0-bit&layout=compact&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/dev05-hub?theme=radical&ext=activity)
+<div align="center">
+
+## 📈 My Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dive0-bit&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dive0-bit&layout=compact&theme=radical" alt="Top Languages" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dev05-hub?theme=radical&ext=activity" alt="LeetCode Stats" width="650" />
+</p>
+
+</div>
