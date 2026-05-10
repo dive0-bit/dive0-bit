@@ -49,10 +49,11 @@ A backend system for grocery store product management.
 ## 📫 Let's Connect!
 *   **LinkedIn:** www.linkedin.com/in/divesh-saini-4bb67337
 *   **Portfolio:** https://github.com/dive0-bit/
-*   **Email:** dve9249@gmail.com
+*   **Email:** dive9249@gmail.com
 
 ---
 
 ### 📈 GitHub Stats
-![Divesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+## 📈 GitHub Stats
+![Divesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dive0-bit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dive0-bit&layout=compact&theme=radical)
