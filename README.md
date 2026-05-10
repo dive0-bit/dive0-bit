@@ -59,7 +59,7 @@ A backend system for grocery store product management.
 ## 📈 My Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dive0-bit&theme=radical&hide_border=true&fire=00FFFF&ring=00FFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dive0-bit&theme=radical&hide_border=true&fire=00E5FF&ring=00E5FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
