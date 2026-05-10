@@ -49,7 +49,7 @@ A backend system for grocery store product management.
 ## 📫 Let's Connect!
 *   **LinkedIn:** www.linkedin.com/in/divesh-saini-4bb67337
 *   **Portfolio:** https://github.com/dive0-bit/
-*   * **LeetCode:** https://leetcode.com/u/dev05-hub/
+*   **LeetCode:** https://leetcode.com/u/dev05-hub/
 *   **Email:** dive9249@gmail.com
 
 ---
