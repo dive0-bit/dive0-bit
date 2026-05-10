@@ -63,7 +63,7 @@ A backend system for grocery store product management.
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/dev05-hub?theme=radical&ext=activity" alt="LeetCode Stats" width="650" />
+  <img src="https://leetcard.jacoblin.cool/dev05-hub?ext=activity&colors=141321,141321,1E90FF,1E90FF,fe428e,fe428e,fe428e,fe428e" alt="LeetCode Stats" width="650" />
 </p>
 
 </div>
