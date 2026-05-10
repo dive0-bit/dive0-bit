@@ -49,6 +49,7 @@ A backend system for grocery store product management.
 ## 📫 Let's Connect!
 *   **LinkedIn:** www.linkedin.com/in/divesh-saini-4bb67337
 *   **Portfolio:** https://github.com/dive0-bit/
+*   * **LeetCode:** https://leetcode.com/u/dev05-hub/
 *   **Email:** dive9249@gmail.com
 
 ---
@@ -57,3 +58,4 @@ A backend system for grocery store product management.
 ## 📈 GitHub Stats
 ![Divesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dive0-bit&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dive0-bit&layout=compact&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dev05-hub?theme=radical&ext=activity)
