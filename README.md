@@ -6,24 +6,24 @@
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | https://www.linkedin.com/in/diveshsaini-4bb673379 |
+| 💼 LinkedIn | https://www.linkedin.com/in/divesh-saini-4bb673379/ |
 | 🐙 GitHub | https://github.com/dive0-bit |
 | 📧 Email | devs62715@gmail.com |
 
 **Quick Access:**
-- [🔗 LinkedIn Profile](https://www.linkedin.com/in/diveshsaini-4bb673379)
+- [🔗 LinkedIn Profile](https://www.linkedin.com/in/divesh-saini-4bb673379/)
 - [🔗 GitHub Profile](https://github.com/dive0-bit)
 - [🔗 Send Email](mailto:devs62715@gmail.com)
 
 ### 📍 Location: Saharanpur, UP, India | 📞 +91-7455961189
 
 **Connect with me:**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/diveshsaini-4bb673379
+- 💼 **LinkedIn:** https://www.linkedin.com/in/divesh-saini-4bb673379/
 - 🐙 **GitHub:** https://github.com/dive0-bit
 - 📧 **Email:** devs62715@gmail.com
 
 **Quick Links:** 
-[LinkedIn](https://www.linkedin.com/in/diveshsaini-4bb673379) | [GitHub](https://github.com/dive0-bit) | [Email](mailto:devs62715@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/divesh-saini-4bb673379/) | [GitHub](https://github.com/dive0-bit) | [Email](mailto:devs62715@gmail.com)
 
 ---
 
@@ -229,11 +229,11 @@ print(f"Model Accuracy: {accuracy:.2%}")
 **Feel free to reach out! I'm always open to collaborations, feedback, and exciting opportunities.**
 
 - **Email:** devs62715@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/diveshsaini-4bb673379
+- **LinkedIn:** https://www.linkedin.com/in/divesh-saini-4bb673379/
 - **GitHub:** https://github.com/dive0-bit
 
 **Quick Links:**
-[📧 Email](mailto:devs62715@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/diveshsaini-4bb673379) | [🐙 GitHub](https://github.com/dive0-bit)
+[📧 Email](mailto:devs62715@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/divesh-saini-4bb673379/) | [🐙 GitHub](https://github.com/dive0-bit)
 
 ---
 
