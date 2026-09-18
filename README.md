@@ -1,19 +1,29 @@
 # Hi there! 👋 I'm **Divesh Saini**
 
-<div align="center">
+## 🎯 Machine Learning Engineer | Python Developer | AI/ML Enthusiast
 
-### 🎯 Machine Learning Engineer | Python Developer | AI/ML Enthusiast
+**Connect with me on these platforms:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diveshsaini-4bb673379)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dive0-bit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devs62715@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://dive0-bit-book-recommender-system-streamlit-app-heldw8.streamlit.app/)
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | https://www.linkedin.com/in/diveshsaini-4bb673379 |
+| 🐙 GitHub | https://github.com/dive0-bit |
+| 📧 Email | devs62715@gmail.com |
 
----
+**Quick Access:**
+- [🔗 LinkedIn Profile](https://www.linkedin.com/in/diveshsaini-4bb673379)
+- [🔗 GitHub Profile](https://github.com/dive0-bit)
+- [🔗 Send Email](mailto:devs62715@gmail.com)
 
-## 📍 Location: Saharanpur, UP, India | 📞 +91-7455961189
+### 📍 Location: Saharanpur, UP, India | 📞 +91-7455961189
 
-</div>
+**Connect with me:**
+- 💼 **LinkedIn:** https://www.linkedin.com/in/diveshsaini-4bb673379
+- 🐙 **GitHub:** https://github.com/dive0-bit
+- 📧 **Email:** devs62715@gmail.com
+
+**Quick Links:** 
+[LinkedIn](https://www.linkedin.com/in/diveshsaini-4bb673379) | [GitHub](https://github.com/dive0-bit) | [Email](mailto:devs62715@gmail.com)
 
 ---
 
@@ -29,8 +39,6 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 ---
 
 ## 🛠️ Technical Skills
-
-<div align="center">
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,14 +69,11 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
 ---
 
 ## 📚 Featured Projects
 
 ### 1. 🚨 **Spam Email Detection System**
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -77,7 +82,9 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 
 **Classification model to detect spam emails using machine learning**
 
-[🌐 Live Demo](https://dive0-bit-spam-email-prediction-app-gqkzch.streamlit.app/) · [📂 GitHub Repo](https://github.com/dive0-bit/Spam_Email_Prediction) · [🎓 Learn More](#)
+- **Live Demo:** https://dive0-bit-spam-email-prediction-app-gqkzch.streamlit.app/
+- **GitHub Repository:** https://github.com/dive0-bit/Spam_Email_Prediction
+- **Quick Links:** [🌐 Live Demo](https://dive0-bit-spam-email-prediction-app-gqkzch.streamlit.app/) | [📂 GitHub Repo](https://github.com/dive0-bit/Spam_Email_Prediction)
 
 **Key Features:**
 - ✅ TF-IDF Vectorization for text processing
@@ -86,12 +93,9 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 - ✅ Interactive Streamlit web interface
 - ✅ Real-time prediction capability
 
-</div>
-
 ---
 
 ### 2. 📚 **Book Recommendation System**
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -100,7 +104,9 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 
 **Personalized book recommendation engine using collaborative & content-based filtering**
 
-[🌐 Live Demo](https://dive0-bit-book-recommender-system-streamlit-app-heldw8.streamlit.app/) · [📂 GitHub Repo](https://github.com/dive0-bit/Book_Recommender_System) · [🎓 Learn More](#)
+- **Live Demo:** https://dive0-bit-book-recommender-system-streamlit-app-heldw8.streamlit.app/
+- **GitHub Repository:** https://github.com/dive0-bit/Book_Recommender_System
+- **Quick Links:** [🌐 Live Demo](https://dive0-bit-book-recommender-system-streamlit-app-heldw8.streamlit.app/) | [📂 GitHub Repo](https://github.com/dive0-bit/Book_Recommender_System)
 
 **Key Features:**
 - ✅ Collaborative filtering algorithm
@@ -109,12 +115,9 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 - ✅ User-friendly Streamlit interface
 - ✅ Personalized suggestions based on user preferences
 
-</div>
-
 ---
 
 ### 3. 🗂️ **Mady - File Organizer**
-<div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -123,7 +126,8 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 
 **Full-stack web application for organizing and managing files**
 
-[📂 GitHub Repo](https://github.com/dive0-bit) · [🎓 Learn More](#)
+- **GitHub Repository:** https://github.com/dive0-bit
+- **Quick Link:** [📂 GitHub Repo](https://github.com/dive0-bit)
 
 **Key Features:**
 - ✅ React frontend with responsive UI
@@ -132,12 +136,9 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 - ✅ Database management
 - ✅ User authentication
 
-</div>
-
 ---
 
 ### 4. 💬 **Messenger - Real-time Chat App**
-<div align="center">
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=websocket&logoColor=white)
@@ -146,7 +147,8 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 
 **Real-time messaging application with Django Channels**
 
-[📂 GitHub Repo](https://github.com/dive0-bit) · [🎓 Learn More](#)
+- **GitHub Repository:** https://github.com/dive0-bit
+- **Quick Link:** [📂 GitHub Repo](https://github.com/dive0-bit)
 
 **Key Features:**
 - ✅ Real-time message transmission
@@ -155,13 +157,9 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 - ✅ Message persistence
 - ✅ Deployed on Render
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dive0-bit&show_icons=true&theme=dark&count_private=true)
 
@@ -169,13 +167,9 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dive0-bit&theme=dark)](https://git.io/streak-stats)
 
-</div>
-
 ---
 
 ## 🏆 Certifications & Achievements
-
-<div align="center">
 
 | Certification | Issuer | Date |
 |---|---|---|
@@ -183,8 +177,6 @@ Recent **MCA Graduate** with 6 months specialized **AI/ML Training** from Excell
 | **Data Science with AI** | Internshala | Apr 2026 |
 | **Python Programmer** | HackerRank | Verified |
 | **100+ DSA Problems Solved** | LeetCode/HackerRank | Ongoing |
-
-</div>
 
 ---
 
@@ -234,13 +226,14 @@ print(f"Model Accuracy: {accuracy:.2%}")
 
 ## 📞 Let's Connect!
 
-<div align="center">
-
 **Feel free to reach out! I'm always open to collaborations, feedback, and exciting opportunities.**
 
-[📧 Email](mailto:devs62715@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/diveshsaini-4bb673379) · [🐙 GitHub](https://github.com/dive0-bit)
+- **Email:** devs62715@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/diveshsaini-4bb673379
+- **GitHub:** https://github.com/dive0-bit
 
-</div>
+**Quick Links:**
+[📧 Email](mailto:devs62715@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/diveshsaini-4bb673379) | [🐙 GitHub](https://github.com/dive0-bit)
 
 ---
 
@@ -254,12 +247,10 @@ print(f"Model Accuracy: {accuracy:.2%}")
 
 ---
 
-<div align="center">
+## 🌟 Thank You for Visiting!
 
 ### ⭐ If you find my projects helpful, please give them a star! ⭐
 
 **Made with ❤️ by Divesh Saini**
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=dive0-bit.dive0-bit)
-
-</div>
+**Last Updated:** 2026-09-18 | **Profile Views:** [GitHub Profile](https://github.com/dive0-bit)
